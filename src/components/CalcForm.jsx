@@ -76,7 +76,7 @@ export default function CalcForm(props) {
                     </label>
                 </div>
                 <button type="submit">
-                    <img src="../public/images/icon-calculator.svg" alt="" />
+                    <img src="https://raw.githubusercontent.com/grgrnkoo/Mortgage-Calculator-/b9d18dbeb45b0e9eaf2c73e0038e3daab1a5b455/public/images/icon-calculator.svg" alt="" />
                     Calculate Repayments
                 </button>
             </form>
